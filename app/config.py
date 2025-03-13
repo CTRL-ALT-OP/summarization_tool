@@ -1,7 +1,7 @@
 import os
 
 # Set the repository path (Update this based on your local setup)
-REPO_PATH = os.path.expanduser("~/your_project_repo")
+REPO_PATH = os.path.expanduser("C:\\Users\\reube\\nebulatk")
 
 # Set the API URL for sending summaries
 API_URL = "https://example.com/api/summarize"
